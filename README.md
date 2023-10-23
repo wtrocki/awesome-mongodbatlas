@@ -26,7 +26,9 @@ The MongoDB Atlas CDK (Cloud Development Kit) is a set of libraries for creating
 
 The MongoDB Atlas Operator is a Kubernetes operator that simplifies the deployment and management of MongoDB Atlas clusters on Kubernetes. It automates common tasks and provides a seamless experience for running MongoDB Atlas in a Kubernetes environment.
 
-## MongoDB Atlas SDK
+## MongoDB Atlas Golang SDK
+
+Golang SDK for interacting with MongoDB Atlas API
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen.svg)]( https://github.com/mongodb/atlas-sdk-go)
 
