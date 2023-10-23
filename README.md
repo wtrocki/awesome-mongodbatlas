@@ -1,8 +1,4 @@
-# Awesome MongoDB Atlas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-A curated list of awesome MongoDB Atlas end user tools
-
-# MongoDB Atlas Clients
+# MongoDB Atlas Tools and Clients [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository contains a collection of MongoDB Atlas clients and tools that can help you interact with MongoDB Atlas and automate various tasks. Below are links to the official repositories and resources for each of these clients:
 
